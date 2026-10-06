@@ -32,7 +32,6 @@
           span Interacción con clientes para el proceso de venta 
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/introduccion/3-mob.svg", alt="Interacción con clientes para el proceso de venta.Es un componente de formación centrado en:¿Que es una venta?Comunicación asertiva.Introducción al CRM. Fidelización del cliente.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/introduccion/3.svg", alt="")
-        figcaption Nota. SENA, (2026). 
 
     .row.justify-content-center.mb-4.mb-lg-5.z-2
       .col-xl-4.col-sm-8.col-lg-6.col-11.mb-4.mb-xl-0

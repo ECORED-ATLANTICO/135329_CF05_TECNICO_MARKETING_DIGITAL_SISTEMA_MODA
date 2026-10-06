@@ -132,7 +132,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/124108_CF05_DU.pdf',
+        download: 'downloads/124108_CF05_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -174,85 +174,85 @@ export default {
   referencias: [
     {
       referencia:
-        'Ariza, F. y Ariza, J. (2014). <em>Comunicación empresarial y atención al cliente</em>. McGraw-Hill Interamericana.',
+        'Ariza, F. y Ariza, J. (2014). Comunicación empresarial y atención al cliente. McGraw-Hill Interamericana.',
       link: '',
     },
     {
       referencia:
-        'Ariño, J. J. (2018). <em>Ventas para emprendedores: Todo lo que necesitas saber</em>. Ecoe Ediciones.',
+        'Ariño, J. J. (2018). Ventas para emprendedores: Todo lo que necesitas saber. Ecoe Ediciones.',
       link: '',
     },
     {
       referencia:
-        'Contreras, N. (2019, 12 de marzo). <em>Social selling: La guía de ventas en redes sociales</em>. Hootsuite.',
+        'Contreras, N. (2019, 12 de marzo). Social selling: La guía de ventas en redes sociales. Hootsuite.',
       link:
         'https://blog.hootsuite.com/es/social-selling-venta-en-redes-sociales/',
     },
     {
       referencia:
-        'Congreso de Colombia. (2012, 17 de octubre). Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. <em>Diario Oficial</em>.',
+        'Congreso de Colombia. (2012, 17 de octubre). Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. Diario Oficial.',
       link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=1684507',
     },
     {
       referencia:
-        'Ministerio de Comercio, Industria y Turismo. (2015, 26 de mayo). Decreto 1074 de 2015. Por medio del cual se expide el Decreto Único Reglamentario del Sector Comercio, Industria y Turismo. <em>Diario Oficial</em>.',
+        'Ministerio de Comercio, Industria y Turismo. (2015, 26 de mayo). Decreto 1074 de 2015. Por medio del cual se expide el Decreto Único Reglamentario del Sector Comercio, Industria y Turismo. Diario Oficial.',
       link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=30019935',
     },
     {
       referencia:
-        'Congreso de Colombia. (2023, 10 de julio). Ley 2300 de 2023. Por medio de la cual se establecen medidas que protejan el derecho a la intimidad de los consumidores. <em>Diario Oficial</em>.',
+        'Congreso de Colombia. (2023, 10 de julio). Ley 2300 de 2023. Por medio de la cual se establecen medidas que protejan el derecho a la intimidad de los consumidores. Diario Oficial.',
       link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=30046853',
     },
     {
       referencia:
-        'Creatiburón. (2016, 10 de octubre). <em>Fidelización de clientes: Te doy la receta para conseguir clientes leales</em>.',
+        'Creatiburón. (2016, 10 de octubre). Fidelización de clientes: Te doy la receta para conseguir clientes leales.',
       link: 'https://www.creatiburon.com/fidelizacion-de-clientes/',
     },
     {
       referencia:
-        'García Gómez, B., y Gutiérrez Arranz, A. M. (2013). <em>Marketing de fidelización</em>. Ediciones Pirámide.',
+        'García Gómez, B., y Gutiérrez Arranz, A. M. (2013). Marketing de fidelización. Ediciones Pirámide.',
       link: '',
     },
     {
       referencia:
-        'Hotmart. (2021, 28 de abril). <em>Canales de venta: ¿Cuáles son los más eficientes hoy en día?</em>',
+        'Hotmart. (2021, 28 de abril). Canales de venta: ¿Cuáles son los más eficientes hoy en día?',
       link: 'https://hotmart.com/es/blog/canales-de-venta',
     },
     {
       referencia:
-        'IMF Business School. (10 de enero de 2017). <em>Redacción en medios digitales: El reto para los Marketers</em>. IMF Blog.',
+        'IMF Business School. (10 de enero de 2017). Redacción en medios digitales: El reto para los Marketers. IMF Blog.',
       link:
         'https://blogs.imf-formacion.com/blog/marketing/redaccion-medios-digitales-marketers/',
     },
     {
       referencia:
-        'Muente, G. (Mayo 22 de 2018). <em>Tipos de ventas: ¿cuáles existen y en qué se distinguen?</em> Rock Content - ES.',
+        'Muente, G. (Mayo 22 de 2018). Tipos de ventas: ¿cuáles existen y en qué se distinguen? Rock Content - ES.',
       link: 'https://rockcontent.com/es/blog/tipos-de-ventas/',
     },
     {
       referencia:
-        'Pastrana, C. (2014, 10 de febrero). <em>Cómo escribir en Internet: Técnicas de redacción periodística</em>. IEBS.',
+        'Pastrana, C. (2014, 10 de febrero). Cómo escribir en Internet: Técnicas de redacción periodística. IEBS.',
       link:
         'https://www.iebschool.com/hub/redaccion-medios-online-comunicacion-digital/',
     },
     {
       referencia:
-        'RD Station. (s. f.). <em>Ventas: Estrategias, técnicas y todo lo que necesitas saber</em>.',
+        'RD Station. (s. f.). Ventas: Estrategias, técnicas y todo lo que necesitas saber.',
       link: 'https://www.rdstation.com/es/ventas/',
     },
     {
       referencia:
-        'Soria Ibáñez, M. del M. (2015). <em>Plan de medios de comunicación e Internet: UF2398</em>. Editorial CEP.',
+        'Soria Ibáñez, M. del M. (2015). Plan de medios de comunicación e Internet: UF2398. Editorial CEP.',
       link: '',
     },
     {
       referencia:
-        'Tenebit. (22 de marzo de 2023). <em>El CRM en la cultura organizacional</em>. Tenebit Blog.',
+        'Tenebit. (22 de marzo de 2023). El CRM en la cultura organizacional. Tenebit Blog.',
       link: 'https://www.tenebit.com.co/crm-en-la-cultura-organizacional/',
     },
     {
       referencia:
-        'Zendesk. (13 de abril de 2022). <em>Etapas del proceso de ventas: 7 pasos para cerrar más tratos</em>. Zendesk Blog.',
+        'Zendesk. (13 de abril de 2022). Etapas del proceso de ventas: 7 pasos para cerrar más tratos. Zendesk Blog.',
       link: 'https://www.zendesk.es/blog/sales/7-pasos-para-cerrar-mas-tratos/',
     },
   ],
@@ -263,7 +263,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable Nacional Ecosistema de Recursos Educativos Digitales (RED) - Profesional 06',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -382,12 +382,12 @@ export default {
       autores: [
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
@@ -397,7 +397,7 @@ export default {
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador y vinculador de recursos digitales',
+          cargo: 'Validadora y vinculadora de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -405,7 +405,7 @@ export default {
   ],
   creditosAdicionales: {
     imagenes:
-      'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
+      'Fotografías y vectores tomados de <a href="https://www.magnific.com/es" target="_blank">https://www.magnific.com/es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
     creativeCommons:
       'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },
