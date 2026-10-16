@@ -86,7 +86,7 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
         .bg-primario-p10.p-4.mb-4.mb-lg-0.rounded-4
-          p.mb-0 Luego de su observación, ¿qué mensaje deja esta figura? Se puede concluir que hacer una buena venta, desde los protocolos establecidos por la empresa, contribuye a maximizar los beneficios que obtiene la empresa debido a sus ventas de bienes o servicios. En este sentido, es importante que usted identifique el tipo de ventas, para que pueda ayudar a la organización a conseguir sus objetivos.
+          p.mb-0 Se puede concluir que hacer una buena venta, desde los protocolos establecidos por la empresa, contribuye a maximizar los beneficios que obtiene la empresa debido a sus ventas de bienes o servicios. En este sentido, es importante que usted identifique el tipo de ventas, para que pueda ayudar a la organización a conseguir sus objetivos.
       .col-sm-10.col-lg-4
         figure
           img.mb-0(data-aos="fade-down-right", src="@/assets/curso/tema1/10.png", alt="")
