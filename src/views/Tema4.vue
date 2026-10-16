@@ -52,28 +52,28 @@
           img(src="@/assets/curso/tema4/33.png", alt="")
       .col-lg-8
         LineaTiempoD.color-acento-botones
-          .row.align-items-center.justify-content-center(numero="1" titulo="Conectar con los clientes")
+          .row.align-items-center.justify-content-center(numero="A" titulo="Conectar con los clientes")
             .col-lg-8
               p.mb-4.mb-lg-0 Conocer a los clientes y trabajar para que se sientan a gusto con la marca.
             .col-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema4/5.png", alt="")
 
-          .row.align-items-center.justify-content-center(numero="2" titulo="Crear una experiencia")
+          .row.align-items-center.justify-content-center(numero="B" titulo="Crear una experiencia")
             .col-lg-8
               p.mb-4.mb-lg-0 Esta es una manera en que el cliente asocia la marca con buenas experiencias que le ofrecen un valor agregado.
             .col-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema4/6.png", alt="")
 
-          .row.align-items-center.justify-content-center(numero="3" titulo="Mantener el contacto")
+          .row.align-items-center.justify-content-center(numero="C" titulo="Mantener el contacto")
             .col-lg-8
               p.mb-4.mb-lg-0 Entender que en algún momento se necesitará de los clientes, como ellos de la marca. No debes perderlos de vista.
             .col-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema4/7.png", alt="")
 
-          .row.align-items-center.justify-content-center(numero="4" titulo="Personalizar la comunicación")
+          .row.align-items-center.justify-content-center(numero="D" titulo="Personalizar la comunicación")
             .col-lg-8
               p No hay nada que genere más fastidio que una comunicación robótica, donde el cliente sabe que no obtiene respuesta de un ser humano, sino de una máquina que trata a todos por igual.
               p.mb-4.mb-lg-0 La comunicación personalizada conecta aún más con el cliente, haciendo que este se sienta importante y reconocido con aquella marca en que ha invertido tiempo y dinero.
@@ -81,14 +81,14 @@
               figure
                 img(src="@/assets/curso/tema4/8.png", alt="")
           
-          .row.align-items-center.justify-content-center(numero="5" titulo="El <em>feedback</em> de los clientes")
+          .row.align-items-center.justify-content-center(numero="E" titulo="El <em>feedback</em> de los clientes")
             .col-lg-8
               p.mb-4.mb-lg-0 Prepararse para escuchar el <em>feedback</em> de los clientes. De nada sirve una comunicación que no tiene retroalimentación. Por ello, escuchar las experiencias o sugerencias de los clientes es clave para la fidelización.
             .col-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema4/9.png", alt="")
 
-          .row.align-items-center.justify-content-center(numero="6" titulo="Pedir recomendaciones")
+          .row.align-items-center.justify-content-center(numero="F" titulo="Pedir recomendaciones")
             .col-lg-8
               p.mb-4.mb-lg-0 Las reseñas que surgen de los clientes son una excelente carta de recomendación para la fidelización.
             .col-6.col-lg-3
@@ -98,42 +98,42 @@
     .row.justify-content-center
       .col-lg-8
         LineaTiempoD.color-acento-botones
-          .row.align-items-center.justify-content-center(numero="7" titulo="Marcar la diferencia")
+          .row.align-items-center.justify-content-center(numero="G" titulo="Marcar la diferencia")
             .col-lg-8
               p.mb-4.mb-lg-0 La fidelidad del cliente depende mucho de la forma de hacer las cosas y transmitir un mensaje. El destacarse entre la competencia será otro factor que influya para retener a los clientes.
             .col-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema4/11.png", alt="")
 
-          .row.align-items-center.justify-content-center(numero="8" titulo="Crear pensando en los clientes")
+          .row.align-items-center.justify-content-center(numero="H" titulo="Crear pensando en los clientes")
             .col-lg-8
               p.mb-4.mb-lg-0 Crear productos o servicios pensados en los clientes recurrentes es promover un producto con un plus extra para los clientes fieles; aumenta la confianza y lealtad de ellos al recibir beneficios por hacer parte de una comunidad alrededor de la marca.
             .col-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema4/12.png", alt="")
 
-          .row.align-items-center.justify-content-center(numero="9" titulo="Anticiparse a las necesidades")
+          .row.align-items-center.justify-content-center(numero="I" titulo="Anticiparse a las necesidades")
             .col-lg-8
               p.mb-4.mb-lg-0 Al conocer a los clientes, es posible que una marca logre ver más allá de lo que estos buscan para encontrar lo que podrían necesitar, siendo otra oportunidad de lograr fidelización.
             .col-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema4/13.png", alt="")
 
-          .row.align-items-center.justify-content-center(numero="10" titulo="Crear protocolos de seguimiento")
+          .row.align-items-center.justify-content-center(numero="J" titulo="Crear protocolos de seguimiento")
             .col-lg-8
               p.mb-4.mb-lg-0 Con el propósito de hacer seguimiento, se debe desarrollar una guía para monitorear la actividad de los clientes y organizar interacciones precisas con ellos.
             .col-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema4/14.png", alt="")
           
-          .row.align-items-center.justify-content-center(numero="11" titulo="Usar el <em>email marketing</em>")
+          .row.align-items-center.justify-content-center(numero="K" titulo="Usar el <em>email marketing</em>")
             .col-lg-8
               p.mb-4.mb-lg-0 A través del correo electrónico y con la ayuda de las bases de datos, los clientes de una marca podrán estar enterados constantemente de todo lo que se relacione con la marca y que les compete a ellos, como promociones, bonos, combos, beneficios, entre otros. Para el envío de este tipo de comunicaciones, la organización debe contar con la autorización previa, expresa e informada del titular de los datos personales y garantizar que la finalidad del tratamiento haya sido comunicada de manera clara, de conformidad con la Ley 1581 de 2012 y el Decreto 1074 de 2015. Asimismo, se deben disponer mecanismos que permitan a los titulares ejercer sus derechos de consulta, actualización, rectificación y supresión de la información. Para las comunicaciones comerciales dirigidas a consumidores también deberán observarse las disposiciones establecidas en la Ley 2300 de 2023.
             .col-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema4/15.png", alt="")
 
-          .row.align-items-center.justify-content-center(numero="12" titulo="Base de datos de los clientes")
+          .row.align-items-center.justify-content-center(numero="L" titulo="Base de datos de los clientes")
             .col-lg-8
               p Tener una base de datos completa y actualizada con la información de los clientes se constituye en una herramienta valiosa para las estrategias de #[em marketing]. Con el adecuado uso de esta información, se puede llegar a los clientes potenciales de manera más efectiva y ofrecer productos, servicios o beneficios acordes con sus necesidades e intereses. 
               p.mb-4.mb-lg-0 No obstante, la recolección, almacenamiento, uso y circulación de los datos personales debe realizarse respetando el derecho fundamental al hábeas data y las disposiciones establecidas en la Ley 1581 de 2012 y el Decreto 1074 de 2015. Asimismo, cuando la información sea utilizada para fines de contacto o comunicación comercial con consumidores, deberán observarse las disposiciones de la Ley 2300 de 2023. 

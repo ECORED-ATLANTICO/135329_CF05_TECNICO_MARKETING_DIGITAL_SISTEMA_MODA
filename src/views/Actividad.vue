@@ -63,7 +63,7 @@ export default {
         {
           id: 2,
           texto:
-            '¿Cuál característica distingue una venta simple o self-service?',
+            '¿Cuál característica distingue una venta simple o <em>self-service</em>?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -264,7 +264,8 @@ export default {
         },
         {
           id: 8,
-          texto: '¿Qué distingue los canales de venta online actualmente?',
+          texto:
+            '¿Qué distingue los canales de venta <em>online</em> actualmente?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -297,7 +298,8 @@ export default {
         },
         {
           id: 9,
-          texto: '¿Qué objetivo persigue el social selling en redes sociales?',
+          texto:
+            '¿Qué objetivo persigue el <em>social selling</em> en redes sociales?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -331,7 +333,8 @@ export default {
         },
         {
           id: 10,
-          texto: '¿Qué aporta el social selling al proceso comercial digital?',
+          texto:
+            '¿Qué aporta el <em>social selling</em> al proceso comercial digital?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

@@ -102,21 +102,21 @@
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-secundario.p-4.px-5.h-100
           .tarjeta-numerada__numero
-            .h2 1
+            .h2 A
           h5 El rasgo distintivo inherente 
           p.mb-0 Se refiere a la búsqueda de un factor diferenciador que genere mayores beneficios a partir de las características propias de determinado producto.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-acento-contenido.p-4.px-5.h-100
           .tarjeta-numerada__numero
-            .h2 2
+            .h2 B
           h5 El rasgo distintivo contingente 
           p.mb-0 Se inclina hacia la emoción que puede generar una característica de un producto determinado.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-primario.p-4.px-5.h-100
           .tarjeta-numerada__numero
-            .h2 3
+            .h2 C
           h5 La proposición argumental virgen
           p.mb-0 Se enfoca en buscar un diferenciador que no es exclusivo, pero se puede utilizar mientras no sea usado por la competencia.
 

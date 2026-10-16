@@ -188,24 +188,21 @@ export default {
     },
     {
       referencia:
-        'Contreras, N. (2019, 12 de marzo). Social selling: La guía de ventas en redes sociales. Hootsuite.',
-      link:
-        'https://blog.hootsuite.com/es/social-selling-venta-en-redes-sociales/',
-    },
-    {
-      referencia:
         'Congreso de Colombia. (2012, 17 de octubre). Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. Diario Oficial.',
-      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=1684507',
-    },
-    {
-      referencia:
-        'Ministerio de Comercio, Industria y Turismo. (2015, 26 de mayo). Decreto 1074 de 2015. Por medio del cual se expide el Decreto Único Reglamentario del Sector Comercio, Industria y Turismo. Diario Oficial.',
-      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=30019935',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981',
     },
     {
       referencia:
         'Congreso de Colombia. (2023, 10 de julio). Ley 2300 de 2023. Por medio de la cual se establecen medidas que protejan el derecho a la intimidad de los consumidores. Diario Oficial.',
-      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=30046853',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=213990',
+    },
+    {
+      referencia:
+        'Contreras, N. (2019, 12 de marzo). Social selling: La guía de ventas en redes sociales. Hootsuite.',
+      link:
+        'https://blog.hootsuite.com/es/social-selling-venta-en-redes-sociales/',
     },
     {
       referencia:
@@ -230,6 +227,12 @@ export default {
     },
     {
       referencia:
+        'Ministerio de Comercio, Industria y Turismo. (2015, 26 de mayo). Decreto 1074 de 2015. Por medio del cual se expide el Decreto Único Reglamentario del Sector Comercio, Industria y Turismo. Diario Oficial.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76608',
+    },
+    {
+      referencia:
         'Muente, G. (Mayo 22 de 2018). Tipos de ventas: ¿cuáles existen y en qué se distinguen? Rock Content - ES.',
       link: 'https://rockcontent.com/es/blog/tipos-de-ventas/',
     },
@@ -247,12 +250,13 @@ export default {
     {
       referencia:
         'Soria Ibáñez, M. del M. (2015). Plan de medios de comunicación e Internet: UF2398. Editorial CEP.',
-      link: '',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/51054',
     },
     {
       referencia:
         'Tenebit. (22 de marzo de 2023). El CRM en la cultura organizacional. Tenebit Blog.',
-      link: 'https://www.tenebit.com.co/crm-en-la-cultura-organizacional/',
+      link: 'https://www.tenebit.com/co/blog/crm-para-clinicas-guia-completa/',
     },
     {
       referencia:

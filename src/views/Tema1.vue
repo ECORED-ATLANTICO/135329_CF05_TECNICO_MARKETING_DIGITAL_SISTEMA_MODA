@@ -68,18 +68,18 @@
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/7.png", alt="")
       .col-xl-8
         .cajon.color-acento-contenido.p-4.mb-4.mb-lg-5
-          p.mb-0 En las siguientes figuras se puede analizar el comportamiento de las ventas para emprendedores, lo que permite identificar tendencias, oportunidades de crecimiento y aspectos clave para la toma de decisiones estratégicas.
+          p.mb-0 Se puede analizar el comportamiento de las ventas para emprendedores, lo que permite identificar tendencias, oportunidades de crecimiento y aspectos clave para la toma de decisiones estratégicas.
         .row.justify-content-center.align-items-stretch.custom-tarjeta-numerada.custom-tarjeta-numerada__mod.z-2
           .col-sm-8.col-lg-6.my-4.mb-5.my-lg-0
             .tarjeta-numerada.color-secundario.p-2.ps-5.h-100.bg-azul-claro.position-relative
               .tarjeta-numerada__numero
-                .h2 1
+                .h2 A
               p.mb-0.text-bold.w-75 Cliente satisfecho.
               img.d-none.d-md-block.img-90.position-absolute.icon-tarjeta-numerada(src="@/assets/curso/tema1/8.png", alt="")
           .col-sm-8.col-lg-6
             .tarjeta-numerada.color-secundario.p-2.ps-5.h-100.bg-azul-claro.position-relative
               .tarjeta-numerada__numero
-                .h2 2
+                .h2 B
               p.mb-0.text-bold.w-75 Beneficios para la empresa.
               img.d-none.d-md-block.img-90.position-absolute.icon-tarjeta-numerada(src="@/assets/curso/tema1/9.png", alt="")
 
@@ -174,23 +174,23 @@
           img(src="@/assets/curso/tema1/18.png", alt="")
       .col-lg-8
         LineaTiempoD.color-acento-botones
-          .row(numero="1" titulo="Prospección")
+          .row(numero="A" titulo="Prospección")
             .col-auto
               p.mb-0 Para iniciar el proceso de venta se hace preciso la investigación previa del público al que se desea llegar, identificando los #[em leads], o clientes potenciales,   a partir de su condición de compra, el tipo de usuario y las necesidades a satisfacer. Luego se puede continuar con la definición de las estrategias de ventas. 
 
-          .row(numero="2" titulo="Calificación de <em>leads</em>")
+          .row(numero="B" titulo="Calificación de <em>leads</em>")
             .col-auto
               p.mb-0 Es importante tener en cuenta el #[em buyer], persona que se ha definido para la marca o empresa, el cual se define como el modelo de cliente que esta tendría. Este ejercicio ayuda a definir la mejor manera de comunicarse y adaptar los productos o servicios para satisfacer las necesidades de los clientes.
 
-          .row(numero="3" titulo="Preparación")
+          .row(numero="C" titulo="Preparación")
             .col-auto
               p.mb-0 Seguidamente, se realiza el análisis de toda la información recolectada en el anterior paso, ya que, al conocer a los clientes potenciales, se organizará todo para llevar a cabo el plan de acción.
 
-          .row(numero="4" titulo="Presentación")
+          .row(numero="D" titulo="Presentación")
             .col-auto
               p.mb-0 Esta se caracteriza porque el vendedor se conecta directamente con los clientes identificados previamente, haciendo uso del conocimiento recolectado y organizado.  Es importante la actitud de la persona que desee realizar la venta como factor decisivo del paso.  
 
-          .row(numero="5" titulo="Argumentación y manejo de objeciones ")
+          .row(numero="E" titulo="Argumentación y manejo de objeciones ")
             .col-auto
               div
                 p.mb-1.mb-0 En este momento se da a conocer toda la información que sustente el porqué el cliente debe adquirir determinado producto o servicio. En este punto se hace necesario mencionar la técnica AIDA (Ariño, 2018): 
@@ -208,11 +208,11 @@
                     i.lista-ul__vineta 
                     span #[strong Acción]: se realiza la venta. 
 
-          .row(numero="6" titulo="Cierre de venta ")
+          .row(numero="F" titulo="Cierre de venta ")
             .col-auto
               p.mb-0 Al lograr que el cliente presente interés en el producto, es como se realiza el seguimiento para que efectivamente se lleve a cabo la venta.
 
-          .row(numero="7" titulo="Posventa ")
+          .row(numero="G" titulo="Posventa ")
             .col-auto
               p.mb-0 Después de realizar la venta, es muy importante generar un público alrededor de la marca o empresa, personas leales en sus compras, que prefieran una determinada marca por su conocimiento y cercanía, lo cual se denomina fidelización de clientes y significa un importante beneficio para la sostenibilidad de las ventas.
 
@@ -228,7 +228,7 @@
         p A partir de la estrategia de #[em marketing] adoptada es como se define el canal de venta adecuado para que una empresa promocione un producto o servicio y este, a su vez, llegue a definirse como venta. Según el portal web Hotmart (2018), el canal de venta se define como el medio por el cual el cliente tiene contacto con los productos o servicios que una empresa ofrece.
         .p-3.bg-azul-claro.rounded-4
           p Dentro de los canales de venta, se tienen en cuenta las plataformas y herramientas utilizadas para acercar al cliente con la oferta de una empresa, donde se encuentran implícitos los canales de promoción para publicitar un producto y lograr que este conecte con el cliente para lograr la venta. Cada empresa puede definir el canal o los canales de ventas que más se ajusten, dependiendo de lo que ofrece, el público al que se dirige, las oportunidades en el mercado, entre otros factores; al entender estas nociones básicas, se puede definir qué canal será el más adecuado.
-          p.mb-0 De acuerdo con el portal web Hotmart (2018), los canales de venta están determinados en dos grandes grupos, dependiendo del medio utilizado. Se pueden observar en el siguiente gráfico:
+          p.mb-0 De acuerdo con el portal web Hotmart (2018), los canales de venta están determinados en dos grandes grupos, dependiendo del medio utilizado:
           
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-azul-medio")
       .row(titulo="<strong>Venta <em>offline</em></strong>: son aquellos que no operan con un sistema web.").justify-content-center.align-items-center
