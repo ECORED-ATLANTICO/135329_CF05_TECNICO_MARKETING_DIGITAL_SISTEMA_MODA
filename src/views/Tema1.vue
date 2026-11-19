@@ -190,7 +190,7 @@
             .col-auto
               p.mb-0 Esta se caracteriza porque el vendedor se conecta directamente con los clientes identificados previamente, haciendo uso del conocimiento recolectado y organizado.  Es importante la actitud de la persona que desee realizar la venta como factor decisivo del paso.  
 
-          .row(numero="E" titulo="Argumentación y manejo de objeciones ")
+          .row(numero="E" titulo="Argumentación y manejo de objeciones")
             .col-auto
               div
                 p.mb-1.mb-0 En este momento se da a conocer toda la información que sustente el porqué el cliente debe adquirir determinado producto o servicio. En este punto se hace necesario mencionar la modelo AIDA (Ariño, 2018): 
