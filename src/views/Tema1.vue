@@ -308,7 +308,7 @@
                     .row.justify-content-center.mb-3
                       .col-12
                         h5 Redes sociales
-                        p Este es un lugar para comercializar productos de una sola marca, no comparte espacio con su competencia.
+                        p Son plataformas digitales que permiten a las empresas promocionar sus productos o servicios, interactuar con los clientes y establecer relaciones comerciales mediante la publicación de contenidos y la comunicación directa.
             .col-10.col-sm-6.col-lg-4.mb-4.mb-xl-0
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/28.png' alt='')

@@ -150,29 +150,111 @@ export default {
       },
     ],
   },
-
   glosario: [
+    {
+      termino: 'AIDA',
+      significado:
+        'Técnica de ventas que comprende cuatro etapas: atención, interés, deseo y acción, orientadas a motivar al cliente para realizar una compra.',
+    },
+    {
+      termino: 'Base de datos',
+      significado:
+        'Conjunto organizado de información que permite almacenar, consultar y gestionar los datos de los clientes, de acuerdo con las disposiciones aplicables sobre protección de datos personales.',
+    },
+    {
+      termino: 'CRM',
+      significado:
+        'Sigla de <em>Customer Relationship Management</em>, que corresponde a la gestión de las relaciones con los clientes mediante herramientas y estrategias que permiten organizar la información y realizar seguimiento a las interacciones comerciales.',
+    },
+    {
+      termino: 'Canal de venta',
+      significado:
+        'Medio a través del cual el cliente tiene contacto con los productos o servicios que ofrece una empresa.',
+    },
+    {
+      termino: 'Comunicación asertiva',
+      significado:
+        'Capacidad de transmitir información, ideas y mensajes de manera clara, respetuosa y oportuna, teniendo en cuenta las necesidades del interlocutor.',
+    },
     {
       termino: '<em>E-commerce</em>',
       significado:
-        'Método de compra y venta de productos a través de entornos digitales.',
+        'Método de compra y venta de productos o servicios a través de entornos digitales.',
+    },
+    {
+      termino: 'Embudo de ventas',
+      significado:
+        'Representación de las etapas que atraviesa un cliente potencial durante el proceso de compra, desde el primer contacto hasta la adquisición de un producto o servicio.',
+    },
+    {
+      termino: '<em>Email marketing</em>',
+      significado:
+        'Estrategia de comunicación comercial que utiliza el correo electrónico para informar, promocionar productos o servicios y mantener la relación con los clientes.',
+    },
+    {
+      termino: '<em>Feedback</em>',
+      significado:
+        'Retroalimentación que permite conocer las opiniones, experiencias y sugerencias de los clientes frente a los productos, servicios o procesos de atención.',
     },
     {
       termino: 'Fidelización',
-      significado: 'Proceso de generar lealtad y confianza.',
+      significado:
+        'Proceso de generar lealtad y confianza en los clientes, mediante estrategias orientadas a mantener relaciones comerciales duraderas.',
     },
     {
       termino: '<em>Lead</em>',
-      significado: 'Cliente potencial.',
+      significado:
+        'Cliente potencial que ha manifestado interés en los productos o servicios de una empresa y que puede avanzar en el proceso de venta.',
     },
     {
-      termino: '<em>Social selling</em>',
+      termino: '<em>Marketplace</em>',
       significado:
-        'Uso de las redes sociales para atraer a los prospectos comerciales de una marca, con el fin de generar ventas con públicos objetivos.',
+        'Plataforma digital que funciona como un centro comercial virtual, en el que diferentes marcas o vendedores pueden ofrecer sus productos o servicios.',
+    },
+    {
+      termino: 'Posventa',
+      significado:
+        'Etapa del proceso comercial que se desarrolla después de concretar una venta y comprende acciones de seguimiento, atención y acompañamiento al cliente.',
+    },
+    {
+      termino: 'Prospección',
+      significado:
+        'Proceso de identificación e investigación de clientes potenciales, considerando sus características, necesidades e intereses.',
+    },
+    {
+      termino: 'Social <em>selling</em>',
+      significado:
+        'Estrategia de ventas que utiliza las redes sociales para identificar, atraer e interactuar con clientes potenciales y establecer relaciones comerciales.',
     },
     {
       termino: '<em>Target</em>',
-      significado: 'Público objetivo determinado.',
+      significado:
+        'Público objetivo al que se dirigen los productos, servicios o estrategias comerciales de una empresa.',
+    },
+    {
+      termino: '<em>Telemarketing</em>',
+      significado:
+        'Estrategia comercial que utiliza las llamadas telefónicas como medio para promocionar productos o servicios, contactar clientes y concretar ventas.',
+    },
+    {
+      termino: 'Trazabilidad del servicio',
+      significado:
+        'Seguimiento de las interacciones y acciones realizadas durante la prestación del servicio al cliente, que permite consultar la información y verificar la atención brindada.',
+    },
+    {
+      termino: 'Venta <em>inbound</em>',
+      significado:
+        'Estrategia comercial orientada a atraer clientes potenciales mediante contenidos y acciones que responden a sus intereses y necesidades.',
+    },
+    {
+      termino: 'Venta <em>inside sales</em>',
+      significado:
+        'Modalidad de venta que se desarrolla de manera remota, mediante herramientas de comunicación digital y otros canales que permiten interactuar con los clientes sin requerir encuentros presenciales.',
+    },
+    {
+      termino: '<em>Buyer persona</em>',
+      significado:
+        'Representación semificticia del cliente ideal de una empresa, construida a partir de información sobre sus características, comportamientos, necesidades e intereses.',
     },
   ],
   referencias: [

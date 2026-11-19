@@ -241,8 +241,11 @@
         
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 2.
+          span Etapas del proceso de decisión de compra del cliente 
         figure
-          img(data-aos="fade-in", src="@/assets/curso/tema4/31.png", alt="")
+          img(data-aos="fade-in", src="@/assets/curso/tema4/31.svg", alt="Diagrama que representa las cuatro etapas del proceso de decisión de compra del cliente: concienciación, investigación, decisión y acción. Cada etapa se identifica mediante un encabezado y una ilustración gráfica. La concienciación representa el reconocimiento de una necesidad; la investigación, la búsqueda de información; la decisión, la evaluación y selección de una alternativa; y la acción, la ejecución de la compra. Las etapas permiten visualizar el recorrido del cliente potencial durante el proceso de venta y facilitan el seguimiento de su avance hasta concretar la adquisición de un producto o servicio.")
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .d-none.d-lg-block.col-sm-6.col-lg-4
