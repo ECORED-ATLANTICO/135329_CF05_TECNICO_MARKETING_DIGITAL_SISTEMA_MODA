@@ -68,7 +68,7 @@
 
           .row.align-items-center.justify-content-center(numero="C" titulo="Mantener el contacto")
             .col-lg-8
-              p.mb-4.mb-lg-0 Entender que en algún momento se necesitará de los clientes, como ellos de la marca. No debes perderlos de vista.
+              p.mb-4.mb-lg-0 Entender que en algún momento se necesitará de los clientes, como ellos de la marca. No deben perderlos de vista.
             .col-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema4/7.png", alt="")

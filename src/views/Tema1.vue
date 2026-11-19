@@ -180,7 +180,7 @@
 
           .row(numero="B" titulo="Calificación de <em>leads</em>")
             .col-auto
-              p.mb-0 Es importante tener en cuenta el #[em buyer], persona que se ha definido para la marca o empresa, el cual se define como el modelo de cliente que esta tendría. Este ejercicio ayuda a definir la mejor manera de comunicarse y adaptar los productos o servicios para satisfacer las necesidades de los clientes.
+              p.mb-0 Es importante tener en cuenta el #[em buyer] persona que se ha definido para la marca o empresa, el cual se define como el modelo de cliente que esta tendría. Este ejercicio ayuda a definir la mejor manera de comunicarse y adaptar los productos o servicios para satisfacer las necesidades de los clientes.
 
           .row(numero="C" titulo="Preparación")
             .col-auto
@@ -193,7 +193,7 @@
           .row(numero="E" titulo="Argumentación y manejo de objeciones ")
             .col-auto
               div
-                p.mb-1.mb-0 En este momento se da a conocer toda la información que sustente el porqué el cliente debe adquirir determinado producto o servicio. En este punto se hace necesario mencionar la técnica AIDA (Ariño, 2018): 
+                p.mb-1.mb-0 En este momento se da a conocer toda la información que sustente el porqué el cliente debe adquirir determinado producto o servicio. En este punto se hace necesario mencionar la modelo AIDA (Ariño, 2018): 
                 ul.lista-ul.custom-list.mb-0
                   li.d-flex
                     i.lista-ul__vineta 
@@ -298,7 +298,7 @@
                   .p-2
                     .row.justify-content-center.mb-3
                       .col-12
-                        h5 #[em Google Shopping] 
+                        h5 Google Shopping 
                         p Este permite la visualización del producto a ofrecer en Google con la imagen y precio determinados.
             .col-10.col-sm-6.col-lg-4.mb-4.mb-xl-0
               .tarjeta-avatar
@@ -316,7 +316,7 @@
                   .p-2
                     .row.justify-content-center.mb-3
                       .col-12
-                        h5 #[em Google Ads]  
+                        h5 Google Ads
                         p.mb-0 Define dos maneras de anunciar: 1. La red de búsqueda y 2. La red de visualización.
                         p.mb-0 La primera ubica anuncios en la parte superior de la pantalla referentes a la palabra de búsqueda y la segunda hace referencia a los anuncios gráficos que aparecen en las páginas web visitadas.
 

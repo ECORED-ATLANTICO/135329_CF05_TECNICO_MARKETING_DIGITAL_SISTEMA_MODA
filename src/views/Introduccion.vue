@@ -40,7 +40,7 @@
             figure
               img(src="@/assets/curso/introduccion/4.png", alt="")
           .crd_hover_txt--body
-            h4.mb-5 ¿Cómo surge este curso?
+            h4.mb-3 ¿Cómo surge este curso?
             p.mb-0 Desde la necesidad de la interacción con los clientes que lleve a su fidelización y mantener las ventas de la empresa.
 
       .col-xl-4.col-sm-8.col-lg-6.col-11.mb-4.mb-xl-0
@@ -49,7 +49,7 @@
             figure
               img(src="@/assets/curso/introduccion/5.png", alt="")
           .crd_hover_txt--body.long-title--small
-            h4.mb-5 ¿Cuál es el objeto de aprendizaje?
+            h4.mb-3 ¿Cuál es el objeto de aprendizaje?
             p.mb-0 Una vez finalizado este componente de formación se espera que usted pueda:
               ul(style="list-style-type: disc; padding-left: 1.5rem;")
                 li Prestar servicio al cliente acorde a unos lineamientos.

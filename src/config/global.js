@@ -178,7 +178,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Ariza, F. y Ariza, J. (2014). Comunicación empresarial y atención al cliente. McGraw-Hill Interamericana.',
+        'Ariza, F., & Ariza, J. (2014). Comunicación empresarial y atención al cliente. McGraw-Hill Interamericana.',
       link: '',
     },
     {
@@ -200,7 +200,7 @@ export default {
     },
     {
       referencia:
-        'Contreras, N. (2019, 12 de marzo). Social selling: La guía de ventas en redes sociales. Hootsuite.',
+        'Contreras, N. (2019, 12 de marzo). <em>Social selling</em>: La guía de ventas en redes sociales. Hootsuite.',
       link:
         'https://blog.hootsuite.com/es/social-selling-venta-en-redes-sociales/',
     },
@@ -211,7 +211,7 @@ export default {
     },
     {
       referencia:
-        'García Gómez, B., y Gutiérrez Arranz, A. M. (2013). Marketing de fidelización. Ediciones Pirámide.',
+        'García Gómez, B., & Gutiérrez Arranz, A. M. (2013). <em>Marketing</em> de fidelización. Ediciones Pirámide.',
       link: '',
     },
     {
@@ -221,7 +221,7 @@ export default {
     },
     {
       referencia:
-        'IMF Business School. (10 de enero de 2017). Redacción en medios digitales: El reto para los Marketers. IMF Blog.',
+        'IMF Business School. (2017, 10 de enero). Redacción en medios digitales: El reto para los <em>marketers</em>. IMF Blog.',
       link:
         'https://blogs.imf-formacion.com/blog/marketing/redaccion-medios-digitales-marketers/',
     },
@@ -233,7 +233,7 @@ export default {
     },
     {
       referencia:
-        'Muente, G. (Mayo 22 de 2018). Tipos de ventas: ¿cuáles existen y en qué se distinguen? Rock Content - ES.',
+        'Muente, G. (2018, 22 de mayo). Tipos de ventas: ¿Cuáles existen y en qué se distinguen? Rock Content - ES.',
       link: 'https://rockcontent.com/es/blog/tipos-de-ventas/',
     },
     {
@@ -255,12 +255,12 @@ export default {
     },
     {
       referencia:
-        'Tenebit. (22 de marzo de 2023). El CRM en la cultura organizacional. Tenebit Blog.',
+        'Tenebit. (2023, 22 de marzo). El CRM en la cultura organizacional. Tenebit Blog.',
       link: 'https://www.tenebit.com/co/blog/crm-para-clinicas-guia-completa/',
     },
     {
       referencia:
-        'Zendesk. (13 de abril de 2022). Etapas del proceso de ventas: 7 pasos para cerrar más tratos. Zendesk Blog.',
+        'Zendesk. (2022, 13 de abril). Etapas del proceso de ventas: 7 pasos para cerrar más tratos.',
       link: 'https://www.zendesk.es/blog/sales/7-pasos-para-cerrar-mas-tratos/',
     },
   ],
@@ -311,7 +311,7 @@ export default {
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Revisor metodológico y pedagógico',
-          centro: 'Centro de Diseño Y Metrología - Regional Distrito Capital',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Uriel Darío González Montoya',
