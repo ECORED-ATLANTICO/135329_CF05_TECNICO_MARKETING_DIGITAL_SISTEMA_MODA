@@ -192,8 +192,7 @@
 
           .row(numero="E" titulo="Argumentación y manejo de objeciones")
             .col-auto
-              div
-                p.mb-1.mb-0 En este momento se da a conocer toda la información que sustente por qué el cliente debe adquirir determinado producto o servicio. En este punto se hace necesario mencionar la modelo AIDA (Ariño, 2018): 
+              p.mb-0 En este momento se da a conocer toda la información que sustente el por qué el cliente debe adquirir determinado producto o servicio. En este punto se hace necesario mencionar la modelo AIDA (Ariño, 2018): 
                 ul.lista-ul.custom-list.mb-0
                   li.d-flex
                     i.lista-ul__vineta 
@@ -207,6 +206,7 @@
                   li.d-flex
                     i.lista-ul__vineta 
                     span #[strong Acción]: se realiza la venta. 
+                
 
           .row(numero="F" titulo="Cierre de venta ")
             .col-auto
